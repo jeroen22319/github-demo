@@ -1,1 +1,1 @@
-Get-CsVacantNumber
+Get-DnsClient
